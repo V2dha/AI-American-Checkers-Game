@@ -1,1 +1,1 @@
-# American-Checkers-Game
+# American-Checkers-AI
