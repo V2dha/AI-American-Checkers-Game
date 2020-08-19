@@ -14,7 +14,7 @@ body , html{
     font-family: sans-serif;
 }
 
-h1 {git
+h1 {
 	text-align: center;
 	line-height: 1;
 	font-weight: small;
@@ -38,11 +38,7 @@ h1 {git
     color: rgb(28, 7, 105);
     cursor: pointer;
 }
-.logo img{
-    width: 50px;
-    margin-top: -20px;
-    margin-right: 40px;
-}
+
 .newgame{
 	padding:4px;
 	background-color:none;
