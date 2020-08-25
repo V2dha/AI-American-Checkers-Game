@@ -225,9 +225,9 @@ function loop() {
         counterAlert++;
     }
     if(counterAlert > 30){
-        let p = BOARD_DEF.move == PLAYER.P1 ? "BLACK" : "WHITE";
+        let p = BOARD_DEF.move == PLAYER.P1 ? "WHITE" : "BLACK";
         stopLoop = true;
-        alert(p +"PLAYER WINS");
+        alert(p +" PLAYER WINS");
     }
     if(!stopLoop)
         requestAnimationFrame(loop);
